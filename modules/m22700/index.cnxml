@@ -1,0 +1,156 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Even and uneven numbers</title>
+  <metadata>
+  <md:content-id>m22700</md:content-id><md:title>Even and uneven numbers</md:title>
+  <md:abstract/>
+  <md:uuid>de1216f5-d49e-448e-9c65-9271c9591edc</md:uuid>
+</metadata>
+
+<content>
+    <section id="id13626350">
+      <title>MATHEMATICS</title>
+      <para id="para-id13626350">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11463146">
+      <title>Meet Bonny and Tommy</title>
+      <para id="para-id11463146">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14273790">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id14273790">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13212835">
+      <title>Memorandum</title>
+      <para id="id5803461">Up to Grade 2 the learners used the word “ones” for “units” but as from Grade 3 we change to “units”. Explain it to the learners.</para>
+      <para id="id10499948">Use concrete objects and help the learners to discover for themselves what even and uneven numbers are. Do this to 9 at first.</para>
+      <para id="id14553207">Help them to discover the pattern from 11 to 19.</para>
+      <para id="id4619094">When they have discovered the pattern of 2 4 6 8 0 on the unit side for even numbers and 1 3 5 7 9 on the unit side for uneven numbers, they have fun applying this to higher numbers.</para>
+    </section>
+    <section id="id12764811">
+      <title>LEANER SECTION</title>
+      <para id="para-id12764811">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13648347">
+      <title>Content</title>
+      <section id="id10128020">
+        <title>ACTIVITY: Even and uneven numbers [LO 1.4, LO 2.2, LO 1.9, LO 1.8]</title>
+        <list id="id12206503" list-type="bulleted">
+          <item>Complete the pattern with numbers:</item>
+        </list>
+        <figure id="id13624709">
+          <media id="id13624709_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-80b7.png" id="id13624709__onlineimage" height="254" width="567"/>
+          </media>
+        </figure>
+        <para id="id4945664">All the SQUARES belong to Bonny. She has all the numbers with a 2 ................... ................... ................... 0 on the side of the ones (units). All her numbers are therefore even numbers.</para>
+        <para id="id13290913">All the CIRCLES belong to Tommy. He has all the numbers with a</para>
+        <para id="id13152622">1 ................. ................. .................  ................. on the side of the ones (units). All his numbers are therefore uneven numbers.</para>
+        <list id="id12225059" list-type="bulleted">
+          <item>Sort Bonny’s and Tommy’s numbers:</item>
+        </list>
+        <para id="id12225081"> 23 38 14 9 56 80 75 2 61 97</para>
+        <figure id="id8447260">
+          <media id="id8447260_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-3127.png" id="id8447260__onlineimage" height="191" width="371"/>
+          </media>
+        </figure>
+        <para id="id11311940"/>
+        <para id="id12845029"/>
+        <table id="id10212647" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>LO 1.4</entry>
+                <entry/>
+                <entry>LO 2.2 </entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id13626851" list-type="bulleted">
+          <item>Think!</item>
+        </list>
+        <figure id="id11674302">
+          <media id="id11674302_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-66de.png" id="id11674302__onlineimage" height="173" width="600"/>
+          </media>
+        </figure>
+        <table id="id12227300" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.9 </entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id12915329" list-type="bulleted">
+          <item>Match the right words: equal to; greater than; less than.</item>
+        </list>
+        <figure id="id13882289">
+          <media id="id13882289_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-11fc.png" id="id13882289__onlineimage" height="256" width="542"/>
+          </media>
+        </figure>
+        <list id="id14095235" list-type="bulleted">
+          <item>We can replace the words with signs:</item>
+        </list>
+        <figure id="id5010034">
+          <media id="id5010034_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-cf1f.png" id="id5010034__onlineimage" height="173" width="525"/>
+          </media>
+        </figure>
+        <figure id="id12810225">
+          <media id="id12810225_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-bcf8.png" id="id12810225__onlineimage" height="177" width="593"/>
+          </media>
+        </figure>
+        <table id="id5333046" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.8 </entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id12238380">
+      <title>Assessment</title>
+      <para id="id12201258"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id12972666"><emphasis><emphasis effect="italics">Assessment Standard 1.4:</emphasis></emphasis> We know this when the learner orders, describes and compares the following numbers:</para>
+      <para id="id10176472">1.4.1 whole numbers to at least 3-digit numbers;</para>
+      <para id="id14026021">1.4.2 common fractions including halves, quarters and thirds;</para>
+      <para id="id10634970"><emphasis><emphasis effect="italics">Assessment Standard 1.8:</emphasis></emphasis> We know this when the learner can perform calculations, using appropriate symbols, to solve problems involving:</para>
+      <para id="id12759042">1.8.1 addition and subtraction of whole numbers with at least 3 digits;</para>
+      <para id="id12216968">1.8.2 multiplication of at least whole 2-digit by 1-digit numbers;</para>
+      <para id="id13657875">1.8.3 division of at least whole 2-digit by 1-digit numbers;</para>
+      <para id="id8737314">1.8.4 estimation;</para>
+      <para id="id12475408"><emphasis><emphasis effect="italics">Assessment Standard 1.9:</emphasis></emphasis> We know this when the learner performs mental calculations involving:</para>
+      <para id="id12162457">1.9.1 addition and subtraction for numbers to at least 50;</para>
+      <para id="id12866854">1.9.2 multiplication of whole numbers with solutions to at least 50.</para>
+      <para id="id8898589"><emphasis><emphasis effect="italics">Learning Outcome 2:</emphasis></emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id14462229"><emphasis><emphasis effect="italics">Assessment Standard 2.2:</emphasis></emphasis> We know this when the learner copies and extends simple number sequences to at least 1 000.</para>
+    </section>
+  </content>
+</document>

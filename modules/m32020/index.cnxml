@@ -1,0 +1,531 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Multiples</title>
+  <metadata>
+  <md:content-id>m32020</md:content-id><md:title>Multiples</md:title>
+  <md:abstract/>
+  <md:uuid>32418c07-e0f3-46cf-8c08-f6c6fbdce541</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171889656146">
+      <title>MATHEMATICS</title>
+      <para id="para-id1171889656146">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171907435786">
+      <title>Bonny and Tommy take a look at the seasons</title>
+      <para id="para-id1171907435786">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171899932699">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1171899932699">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171889191445">
+      <title>Memorandum </title>
+      <para id="id1171905724339">This module still consists mostly of activities for consolidation, reinforcement and assessment of the work taught in the previous grades focusing on the number 100.</para>
+      <list id="id1171883227210" list-type="bulleted">
+        <item><emphasis effect="bold">Number concept</emphasis> to 200.</item>
+        <item><emphasis effect="bold">Operations:</emphasis> - Consolidates all work covered in Grade 1 en 2.</item>
+      </list>
+      <para id="id3844105">The names of the months and the correct spelling thereof need to be attended to. Discussions about the seasons and a healthy environment (nature conservation) will provide opportunities for the integration with other learning areas.</para>
+      <para id="id4666464">Weather charts for the different seasons can be recorded e.g. February – summer; May – autumn; August – winter; November – spring. These are not the best months for the seasons but they are the months in which the learners attend school for the whole month. Complete a bar graph for every weather chart so that weather conditions can be compared and discussed. Having completed all the bar graphs these can be compared to one another and the learners can discover weather conditions relevant to their own regions as well as those relevant to each season. The educator can keep the graphs to compare the statistics with the next year’s graphs.</para>
+      <para id="id1171903524295">The tasks and activities in Learning Unit 2 are still mainly intended for consolidation of work covered in previous grades. It is essential, however, that educators continue to make use of concrete apparatus to repeat, explain and consolidate all concepts that were not fully mastered before.</para>
+      <para id="id1171904146533">It is of the utmost importance that learners must be totally familiar with the tens grouping of our numbers system:</para>
+      <para id="id6459805"><emphasis effect="bold">10 ones </emphasis>are grouped as <emphasis effect="bold">1 group of ten</emphasis></para>
+      <para id="id1171887756714"><emphasis effect="bold">10 tens </emphasis>are grouped as <emphasis effect="bold">1 group of a hundred</emphasis></para>
+      <para id="id3612397"><emphasis effect="bold">10 groups of a hundred </emphasis>are grouped as <emphasis effect="bold">1 group of a thousand</emphasis>, etc.</para>
+      <para id="id1171882565255">Learners must work with counters that have been grouped in <emphasis effect="bold">hundreds, tens </emphasis>and <emphasis effect="bold">units</emphasis>. Should counters not be available, the following semi-concrete apparatus can be used.</para>
+      <para id="id2264203">Learners must work with counters that have been grouped in <emphasis effect="bold">hundreds, tens </emphasis>and <emphasis effect="bold">units</emphasis>. Should counters not be available, the following semi-concrete apparatus can be used.</para>
+      <figure id="id1171889209672">
+        <media id="id1171889209672_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-ba80.png" id="id1171889209672__onlineimage" height="287" width="600"/>
+        </media>
+      </figure>
+      <para id="id1171895710945">The expansion cards (flared cards) are very useful in explaining <emphasis effect="bold">place values, renaming, unifying of numbers </emphasis>and the <emphasis effect="bold">0 as place-keeper.</emphasis></para>
+      <para id="id1171905625920">Attached you will find an example of expansion cards (flared cards) and a key to writing all number names. Flared cards enable learners to build any number, and if learners know the basic number names, they can construct and write any number name from the given parts. Give each learner a copy to use, for example</para>
+      <para id="id1171889883794">Example:</para>
+      <para id="id1171880938027">Number name: one thousand one hundred and thirty seven</para>
+      <figure id="id1171899090596">
+        <media id="id1171899090596_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-85be.png" id="id1171899090596__onlineimage" height="744" width="556"/>
+        </media>
+      </figure>
+      <para id="id1171896885611">If you wish to use this example, enlarge it and copy it on manilla.</para>
+      <table id="id1171898523179" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">0 nought 1 one 2 two 3 three 4 four 5 five 6 six 7 seven 8 eight 9 nine 10 ten 1 1 eleven 12 twelve 13 thirteen 14 fourteen 15 fifteen 16 sixteen 17 seventeen 18 eighteen 19 nineteen </entry>
+              <entrytbl namest="c3" nameend="c4" cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>20 twenty21 twenty one22 twenty two23 twenty three24 twenty four25 twenty five26 twenty six27 twenty seven28 twenty eight29 twenty nine</entry>
+                  </row>
+                  <row>
+                    <entry>10 ten20 twenty30 thirty40 forty50 fifty60 sixty70 seventy80 eighty90 ninety</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">100 one hundred 200 two hundred 300 three hundred 400 four hundred 500 five hundred 600 six hundred 700 seven hundred 800 eight hundred 900 nine hundred </entry>
+              <entry namest="c3" nameend="c4">101 one hundred and one102 one hundred and two103 one hundred and three104 one hundred and four105 one hundred and five106 one hundred and six107 one hundred and seven108 one hundred and eight109 one hundred and nine</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">1 000 one thousand 3 000 three thousand 5 000 five thousand 7 000 seven thousand 9 000 nine thousand</entry>
+              <entry namest="c3" nameend="c4">2 000 two thousand4 000 four thousand6 000 six thousand8 000 eight thousand10 000 ten thousand</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3">111 one hundred and eleven112 one hundred and twelve113 one hundred and thirteen114 one hundred and fourteen115  one hundred and fifteen116 one hundred and sixteen117 one hundred and seventeen118 one hundred and eighteen119 one hundred and nineteen120  one hundred and twenty121  one hundred and twenty one122  one hundred and twenty two123  one hundred and twenty three124  one hundred and twenty four125  one hundred and twenty five126  one hundred and twenty six127  one hundred and twenty seven128  one hundred and twenty eight129  one hundred and twenty nine</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3">110  one hundred and ten120  one hundred and twenty130  one hundred and thirty140  one hundred and forty150  one hundred and fifty160  one hundred and sixty170  one hundred and seventy180  one hundred and eighty190  one hundred and ninety</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8656332">Frontpage.  </para>
+      <para id="id5657182">It is essential to have an initial discussion on the changing of the seasons. Some learners may find it very stimulating to discover what causes seasons and why there are different seasons in the year.</para>
+      <para id="id1171887653503">Learners must complete the pictures by adding their own drawings to illustrate the typical seasonal qualities, e.g.:</para>
+      <para id="id1171907661466">Spring: flowers and blossoms; 2. Summer: anything to do with the seaside or the swimming pool; 3. Autumn: leaves in autumn colours on trees and the ground; 4. Winter: snow on the mountains or rain (where applicable), and leafless trees. Discuss it with the learners.</para>
+      <para id="id1171906328712">Learners are now expected to know the names of the seasons in the correct order, and to write them down. A “year and seasons clock” can be put up in the classroom, which can help the learners to master writing the names.</para>
+      <para id="id3553546">Explain the origin of the extra day every 4 years to the learners. Some of the learners may understand it at this stage, but it cannot be expected of them at all.</para>
+      <para id="id4131595">This work sheet may elicit a discussion on the Olympic games.</para>
+      <para id="id2415251">It is important that the learners must understand that if 1 is added to the 9 units of 99, there is another group of ten. There are now 10 groups of ten altogether, which are grouped together to make 1 group of a hundred.</para>
+      <para id="id1171886304582">Likewise, they must understand that if they want to take away units from a hundred, they first have to dissolve the group of one hundred, and then dissolve 1 group of ten, before they will have units to take away.</para>
+      <para id="id7991994">The 0 as place-keeper might cause problems for some learners, Therefore it is essential that the learners must use counters that are grouped in hundreds, tens and units (or the copied blocks), as well as the flared cards, when this work is being done. If necessary, provide similar activities.</para>
+      <para id="id1171904651396">If the learners find it difficult to master place values, lay out the numbers with the flared cards.</para>
+      <para id="id1171897884134">On the next page there is an example of the multiples chart. It can be utilised very effectively, therefore it is suggested that each learner is given a copy.</para>
+      <para id="id6139167">This example has been done further than the one on the work sheet, but it can be used for the whole year. Besides, there are learners who are able and keen to count in 6,7,8 and 9.</para>
+      <para id="id1171907157054">Show the learners how to find the answers to the tables, x and + from the chart.</para>
+      <para id="id4724898">Example: 2 x 4 = 8 Go right from 2 and above from 4 downwards – meet at 8 (see arrows)</para>
+      <para id="id1171886338877"><emphasis effect="bold"/><emphasis effect="bold">15 ÷ 3 = 5</emphasis> Go left from 15 to 3 and up from 15 - 5<sup>th</sup> multiple</para>
+      <para id="id1171915717748">
+        <emphasis effect="bold">Multiples:  Count up to the 10</emphasis>
+        <emphasis effect="bold">th</emphasis>
+        <emphasis effect="bold"> multiple and back.</emphasis>
+      </para>
+      <figure id="id1171904019507">
+        <media id="id1171904019507_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-3d1c.png" id="id1171904019507__onlineimage" height="563" width="578"/>
+        </media>
+      </figure>
+      <para id="id1171899637907">At this stage the learners must know that 100c = R1. The learners now have a good concept of 100 and will realise that 120c equal R1 plus 20c, thus they can now learn to write it correctly, namely 120c = R1,20. Master it up to 199c = R1,99.</para>
+      <para id="id8956730">Once they have mastered it, do the reverse: R1,20 = 120c up to R1,99 = 199c. </para>
+      <para id="id1171889875792">It is imperative that the learners understand the <emphasis effect="bold">completion </emphasis>and <emphasis effect="bold">solution of a ten </emphasis>completely. This is an investment for the future. The more <emphasis effect="bold">concrete work </emphasis>that is done here, the better the learners’ understanding of these concepts. They must be able to <emphasis effect="bold">relate</emphasis> what they are doing. If they cannot <emphasis effect="bold">say</emphasis> how they arrived at an answer, it means that the concrete image has not been properly consolidated. Give them <emphasis effect="bold">many </emphasis>and <emphasis effect="bold">regular exercises </emphasis>of this kind.</para>
+      <para id="id1171910266670">Remember, if you prefer not to do solution directly after the completion, you are free to alter the sequence of the work sheets to suit yourself.</para>
+      <para id="id1171907354175">(i)  Various triangles: the isosceles; equilateral and rectangular and any other types of triangle.</para>
+      <para id="id2566540">(ii)  Various rectangles and squares.</para>
+      <para id="id1171906208284">(iii)  Protractors and rulers, enough for everyone in the group.</para>
+      <para id="id6643598">First establish what the learners already know about the <emphasis effect="bold">sides</emphasis> and <emphasis effect="bold">angles</emphasis> of triangles, rectangles and squares.</para>
+      <para id="id5283651"><emphasis effect="bold">Measuring angles</emphasis>:</para>
+      <para id="id1171885149355">Explain what a <emphasis effect="bold">right angle </emphasis>is (angle equal to 90°) if they do not know it. Show the learners the <emphasis effect="bold">protractor</emphasis> and how to measure an angle with it. Make sure that they know exactly how to measure angles. </para>
+      <para id="id1171892174083">Let them measure the angles of the various forms on the mat. They must say what they have discovered about the <emphasis effect="bold">angles</emphasis> of the triangles, rectangles and squares. </para>
+      <para id="id1171909093607">All the angles of the rectangles and the squares are <emphasis effect="bold">right angles</emphasis>. Give them the opportunity to discover other <emphasis effect="bold">right angles</emphasis> in the classroom. </para>
+      <para id="id1171915436527">Have they discovered that a triangle never has more than one right angle? A triangle with a right angle is called a <emphasis effect="bold">rectangular triangle</emphasis>.</para>
+      <para id="id1171887711023">Measuring sides:</para>
+      <para id="id1171910641475">Give the learners rulers to measure the sides. Make very sure that all the learners know how to measure using a ruler.</para>
+      <para id="id3190065">They must discover their own: </para>
+      <para id="id2861796">There are triangles of which the 3 sides are of the same length. That is an equilateral triangle. </para>
+      <para id="id8990375">There are triangles of which 2 sides are the same length. That is an isosceles triangle. </para>
+      <para id="id1171897979879">There are triangles of which the sides are all different.</para>
+      <para id="id1171898407342">The 4 sides of a square are of equal length.</para>
+      <para id="id1171902635684">The 2 opposite sides of a rectangle are the same length.</para>
+      <para id="id1171890298227">This work will probably not all be done in one mat session, and the time needed will vary depending on the group involved. It is advisable to complete measuring angles in one session and measuring sides in another.</para>
+      <para id="id1171890351838">If the learners have already mastered halving of unequal numbers, it is only necessary to explain how to write ½ That means 1 of the 2 parts into which it has been divided:</para>
+      <table id="id1171911530271" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>1</entry>
+              <entry>is numerator</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>is denominator</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1171913632003">This is about halving 3,5,7 or 9 <emphasis effect="bold">groups of ten. </emphasis>There is always <emphasis effect="bold">1 ten </emphasis>that must be solved. Encourage the learners to regroup before they halve. They must first do it concretely on the mat.</para>
+      <figure id="id1171900658361">
+        <media id="id1171900658361_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-2f11.png" id="id1171900658361__onlineimage" height="259" width="463"/>
+        </media>
+      </figure>
+      <figure id="id1171898968359">
+        <media id="id1171898968359_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-89a3.png" id="id1171898968359__onlineimage" height="93" width="382"/>
+        </media>
+      </figure>
+      <para id="id1171887609439">Every time the numbers 6 to 9 are doubled, a ten is completed.</para>
+      <para id="id1171899689803">The learners must indicate it on the work sheet by drawing a circle around the ten.</para>
+      <figure id="id1171913010484">
+        <media id="id1171913010484_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-9e1b.png" id="id1171913010484__onlineimage" height="55" width="313"/>
+        </media>
+      </figure>
+      <para id="id1171896480405"/>
+      <para id="id1171890266498">If there is no calculator available, the educator or one of the learners can write the answers on the blackboard after completing the work sheet. However, the learners who are able to do the calculations on their own, must be allowed to do it.</para>
+      <para id="id8387246">Encourage the learners to persevere until they find the right “path”. They may require an extra sheet of paper on which to write the numbers while trying to find the correct ones.7</para>
+    </section>
+    <section id="id1171890450456">
+      <title>LEANER SECTION</title>
+      <para id="para-id1171890450456">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171915644258">
+      <title>Content</title>
+      <section id="id8504924">
+        <title>ACTIVITY: Multiples [LO 1.1, LO 1.6, LO 1.8, LO 1.9, LO 1.10]</title>
+        <list id="id1171906568682" list-type="bulleted">
+          <item>Multiples: Count up to the 10th multiple and back.</item>
+        </list>
+        <figure id="id1171889858764">
+          <media id="id1171889858764_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics7-f0c5.png" id="id1171889858764__onlineimage" height="213" width="599"/>
+          </media>
+        </figure>
+        <para id="id1171908798994"><emphasis effect="bold">Bonny and Tommy </emphasis>used the above chart to count in multiples of 2, 3, 4, 5 and 10. Use it to complete the worksheet.</para>
+        <table id="id8232992" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>2</entry>
+                <entry>4</entry>
+                <entry>____ </entry>
+                <entry>18</entry>
+                <entry>2</entry>
+                <entry>4</entry>
+                <entry>____ </entry>
+                <entry>18</entry>
+                <entry>2</entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>12 </entry>
+                <entry>____ </entry>
+                <entry>40</entry>
+                <entry>8</entry>
+                <entry>12 </entry>
+                <entry>____ </entry>
+                <entry>40</entry>
+                <entry>8</entry>
+              </row>
+              <row>
+                <entry>45</entry>
+                <entry>40</entry>
+                <entry>____ </entry>
+                <entry>5</entry>
+                <entry>45</entry>
+                <entry>40</entry>
+                <entry>____ </entry>
+                <entry>5</entry>
+                <entry>45</entry>
+              </row>
+              <row>
+                <entry>30</entry>
+                <entry>27</entry>
+                <entry>____ </entry>
+                <entry>6</entry>
+                <entry>30</entry>
+                <entry>27</entry>
+                <entry>____ </entry>
+                <entry>6</entry>
+                <entry>30</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id1171896830812" list-type="bulleted">
+          <item>Draw a circle around:</item>
+        </list>
+        <table id="id1171899130305" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>The <emphasis effect="bold">multiples </emphasis>of<emphasis effect="bold"/>10: </entry>
+                <entry>20</entry>
+                <entry>100</entry>
+                <entry>36</entry>
+                <entry>50</entry>
+                <entry>42</entry>
+                <entry>30</entry>
+                <entry>21</entry>
+                <entry>60</entry>
+              </row>
+              <row>
+                <entry>The <emphasis effect="bold">multiples </emphasis>of<emphasis effect="bold"/>4: </entry>
+                <entry>40</entry>
+                <entry>21</entry>
+                <entry>36</entry>
+                <entry>18</entry>
+                <entry>24</entry>
+                <entry>16</entry>
+                <entry>20</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>The <emphasis effect="bold">multiples </emphasis>of<emphasis effect="bold"/>3: </entry>
+                <entry>27</entry>
+                <entry>32</entry>
+                <entry>18</entry>
+                <entry>24</entry>
+                <entry>10</entry>
+                <entry>30</entry>
+                <entry>20</entry>
+                <entry>12</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4793238">The 4th <emphasis effect="bold">multiple of 2</emphasis> is _____.  20 is the ____th <emphasis effect="bold">multiple of 2.</emphasis></para>
+        <para id="id6458502">The 3rd<emphasis effect="bold"> multiple of 3</emphasis> is _____.  2 1 is the ____th <emphasis effect="bold">multiple of 3.</emphasis></para>
+        <para id="id1171886156122">The 2nd <emphasis effect="bold">multiple of 4 </emphasis>is _____.  28 is the ____th <emphasis effect="bold">multiple of 4.</emphasis></para>
+        <para id="id1171881103500">The 6th <emphasis effect="bold">multiple of 5 </emphasis>is _____.  40 is the ____th <emphasis effect="bold">multiple of 10.</emphasis></para>
+        <para id="id1171898663637">How many eyes do nine rabbits have? ________ eyes</para>
+        <para id="id1171889226589">How many wheels do 7 tricycles have? ________ wheels</para>
+        <para id="id1171905615898">How many fingers do 4 children have? _______ fingers</para>
+        <para id="id1171888713158"><emphasis effect="bold">Bonny and Tommy</emphasis> earn their pocket money by doing jobs around the house. They receive 10c for every job they do.</para>
+        <para id="id1171911316590">Now we must count their pocket money.</para>
+        <para id="id1171904735492">
+          <emphasis effect="bold">Remember: </emphasis>
+          <emphasis effect="bold">10 ten cent coins are R1</emphasis>
+          <emphasis effect="bold"> or </emphasis>
+          <emphasis effect="bold">100c = R1</emphasis>
+        </para>
+        <list id="id1171884569219" list-type="bulleted">
+          <item>Here is <emphasis effect="bold">Bonny’s</emphasis> pocket money.</item>
+        </list>
+        <para id="id1171905648565">
+          <figure id="id1171906453824">
+            <media id="id1171906453824_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics8-3b2e.png" id="id1171906453824__onlineimage" height="71" width="451"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id1171906556104" list-type="bulleted">
+          <item><emphasis effect="bold">Bonny</emphasis> earned ______________ </item>
+          <item>How many jobs did she do?</item>
+        </list>
+        <para id="id3371720">She did ___________________ jobs.</para>
+        <list id="id5010736" list-type="bulleted">
+          <item>Here is <emphasis effect="bold">Tommy’s </emphasis>pocket money.</item>
+        </list>
+        <para id="id1171896678720">
+          <figure id="id1171888957672">
+            <media id="id1171888957672_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics9-2026.png" id="id1171888957672__onlineimage" height="71" width="499"/>
+            </media>
+          </figure>
+        </para>
+        <list id="id1171904665747" list-type="bulleted">
+          <item><emphasis effect="bold">Tommy</emphasis> earned ________________ </item>
+          <item>How many jobs did she do?</item>
+        </list>
+        <para id="id1171891433409">She did ___________________ jobs.</para>
+        <list id="id1171916418344" list-type="bulleted">
+          <item><emphasis effect="bold">Tommy </emphasis>earned ______ c more than <emphasis effect="bold">Bonny</emphasis>, because he did ______ more jobs than Bonny.</item>
+        </list>
+        <para id="id1171910209946"><emphasis effect="bold">Bonny and Tommy</emphasis> have discovered the <emphasis effect="bold">pattern</emphasis> to count in tens.</para>
+        <figure id="id1171914277449">
+          <media id="id1171914277449_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics10-b9e2.png" id="id1171914277449__onlineimage" height="118" width="507"/>
+          </media>
+        </figure>
+        <list id="id1171900902473" list-type="bulleted">
+          <item>Complete:</item>
+        </list>
+        <table id="id1171896535130" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry>10</entry>
+                <entry>20</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>110</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>50</entry>
+                <entry>60</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>100</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>150</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>80</entry>
+                <entry>90</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>140</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+              </row>
+              <row>
+                <entry>110</entry>
+                <entry>100</entry>
+                <entry>___</entry>
+                <entry>80</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>180</entry>
+                <entry>___</entry>
+                <entry>160</entry>
+                <entry>___</entry>
+                <entry>140</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>___</entry>
+                <entry>70</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7226308">Use your own methods to solve the problems.</para>
+        <list id="id1171889862818" list-type="bulleted">
+          <item>Yesterday there were 1 10 children on the soccer field. Today there are 10 more. How many children are there today?</item>
+        </list>
+        <para id="id1171907673250">There are ______ children today.</para>
+        <list id="id4940788" list-type="bulleted">
+          <item>Dad planted 140 carrots, but Bonny and Tommy have already eaten 30. How many carrots are left in the garden?</item>
+        </list>
+        <para id="id1171896959712">There are _______________________________.</para>
+        <figure id="id1171900716910">
+          <media id="id1171900716910_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics11-5e32.png" id="id1171900716910__onlineimage" height="203" width="507"/>
+          </media>
+        </figure>
+        <list id="id1171885158876" list-type="bulleted">
+          <item><emphasis effect="bold">Bonny and Tommy</emphasis> say that <emphasis effect="bold">10 </emphasis><emphasis effect="bold">x</emphasis><emphasis effect="bold"> and ÷ </emphasis>are easy, because they know how to work with money.</item>
+        </list>
+        <figure id="id1171899978044">
+          <media id="id1171899978044_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics12-0492.png" id="id1171899978044__onlineimage" height="837" width="588"/>
+          </media>
+        </figure>
+        <para id="id1171915759696"/>
+        <list id="id6092296" list-type="bulleted">
+          <item>Do you still remember the <emphasis effect="bold">"tens bugs"</emphasis>?</item>
+        </list>
+        <figure id="id1171894622220">
+          <media id="id1171894622220_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics13-29c8.png" id="id1171894622220__onlineimage" height="789" width="600"/>
+          </media>
+        </figure>
+        <para id="id1171903052526"><emphasis effect="bold">Bonny</emphasis> says we must do it without the dots now.</para>
+        <para id="id1171909308304">9 + 4 = ( 9 + 1  ) +  3 = ____</para>
+        <para id="id1171883915128">8 + 6 = ( 8 + ____) + ____ = ____</para>
+        <para id="id1171905941986">7 + 5 = ( 7 + ____) + ____ = ____</para>
+        <para id="id1171902976639">6 + 6 = ( 6 + ____) + ____ = ____</para>
+        <list id="id1171903173330" list-type="bulleted">
+          <item><emphasis effect="bold">Tommy</emphasis> says he changes the numbers around sometimes, because he finds it easier to group the higher number as a ten. <emphasis effect="bold">Watch carefully how he does it.</emphasis></item>
+        </list>
+        <para id="id1171904499399">4 + 8 = 8 + 4  = ( 8 + 2 )  + 2  =  12</para>
+        <para id="id1171909975494">5 + 9  = 9 + 5  = ( 9 + ____) +____ = ____</para>
+        <para id="id1171884179994">6 + 8  =  8 + 6 = ( 8 + ____) +____ = ____</para>
+        <para id="id1171889022308">3 + 9  =  9 + 3 = ( 9 + ____) +____ = ____</para>
+        <para id="id1171912958218">4 + 7  =  7 + 4  = ( 7 + ____) +____ = ____</para>
+        <list id="id2148147" list-type="bulleted">
+          <item>Complete:</item>
+        </list>
+        <figure id="id1171895905131">
+          <media id="id1171895905131_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics14-f52d.png" id="id1171895905131__onlineimage" height="378" width="450"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+    <section id="id1171910245060">
+      <title>Assessment</title>
+      <para id="id6294022"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1171891414425"><emphasis><emphasis effect="italics">Assessment Standard 1.1:</emphasis></emphasis> We know this when the learner counts forwards and backwards in:</para>
+      <para id="id1171896629262">1.1.1 the intervals specified in grade 2 with increased number ranges;</para>
+      <para id="id1171912836767"><emphasis><emphasis effect="italics">Assessment Standard 1.6:</emphasis></emphasis> We know this when the learner solves money problems involving totals and change in rands and cents, including converting between rands and cents;</para>
+      <para id="id1171890840531"><emphasis><emphasis effect="italics">Assessment Standard 1.8:</emphasis></emphasis> We know this when the learner can perform calculations, using appropriate symbols, to solve problems</para>
+      <para id="id1171888990036"><emphasis><emphasis effect="italics">Assessment Standard 1.9:</emphasis></emphasis> We know this when the learner performs mental calculations;</para>
+      <para id="id1171913618249"><emphasis><emphasis effect="italics">Assessment Standard 1.10:</emphasis></emphasis> We know this when the learner uses the following techniques:</para>
+      <para id="id1171913141617">1.10.1 building up and breaking down numbers;</para>
+      <para id="id2541490">1.10.2 doubling and halving;</para>
+      <para id="id5854052">1.10.3 number-lines;</para>
+      <para id="id2190728">1.10.4 rounding off in tens.</para>
+    </section>
+  </content>
+</document>

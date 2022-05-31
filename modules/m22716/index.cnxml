@@ -1,0 +1,271 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Rounding off</title>
+  <metadata>
+  <md:content-id>m22716</md:content-id><md:title>Rounding off</md:title>
+  <md:abstract/>
+  <md:uuid>77151f21-43aa-4e43-8c05-6db79d018393</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165611979118">
+      <title>MATHEMATICS</title>
+      <para id="para-id1165611979118">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3745832">
+      <title>Meet Bonny and Tommy</title>
+      <para id="para-id3745832">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165616771748">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1165616771748">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165616436707">
+      <title>Memorandum</title>
+      <para id="para-id1165616436707">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id547069">
+      <title>LEANER SECTION</title>
+      <para id="para-id547069">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6818767">
+      <title>Content</title>
+      <section id="id5731990">
+        <title>ACTIVITY: Rounding off [LO 1.8, LO 1.10]</title>
+        <list id="id1165608929621" list-type="bulleted">
+          <item>Get some counters from your teacher. Estimate how many you have. Write down your estimate.</item>
+        </list>
+        <para id="id1165613297081">I estimate ____________________________________________________________</para>
+        <list id="id1165605936447" list-type="bulleted">
+          <item>Now group the counters on the desk in tens and units.</item>
+          <item>Count them and write: I have ______________________________________</item>
+          <item>How was your estimate: too many, too few or just right? </item>
+        </list>
+        <para id="id1165606320425"> Write: I estimated ________________________________________________</para>
+        <para id="id1165612098413">By how many were you out? _____________________________________________</para>
+        <list id="id4368953" list-type="bulleted">
+          <item>Is your number closer to 40, closer to 50 or equally far away from both?</item>
+        </list>
+        <para id="id1165604646387">Write: My number is ___________________________________________________</para>
+        <list id="id1165606339161" list-type="bulleted">
+          <item>How can you make your number equal to 50?</item>
+        </list>
+        <para id="id1165604698921">Write: I can add _______________  ____________ + ____________ = 50</para>
+        <list id="id8732816" list-type="bulleted">
+          <item>If you have added 5 or less than 5, 50 is your nearest multiple of ten.</item>
+          <item>How can you make your number equal to 40?</item>
+        </list>
+        <para id="id7841815">Write: I can subtract _______________ : ____________ - ____________ = 40</para>
+        <list id="id3308668" list-type="bulleted">
+          <item>If you subtracted 4 or less than 4, then 40 is your nearest multiple of ten.</item>
+        </list>
+        <table id="id1165606567701" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.8 </entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1165616850630">To round off a number to the nearest ten you must know which multiple of ten is closer to the number. If your number is the same distance from two multiples of ten, we use the greater multiple of ten.</para>
+        <list id="id4306764" list-type="bulleted">
+          <item>Look at the numbers and make an * next to the nearer multiple of ten.</item>
+        </list>
+        <table id="id5840847" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>43</entry>
+                <entry>40</entry>
+                <entry>50</entry>
+              </row>
+              <row>
+                <entry>49</entry>
+                <entry>40</entry>
+                <entry>50</entry>
+              </row>
+              <row>
+                <entry>46</entry>
+                <entry>40</entry>
+                <entry>50</entry>
+              </row>
+              <row>
+                <entry>41</entry>
+                <entry>40</entry>
+                <entry>50</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id5626816" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.10</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id1165607283940" list-type="bulleted">
+          <item>Now help Bonny and Tommy to find the nearer multiple of ten.</item>
+        </list>
+        <para id="id1165619137485">Remember: If the units are 5 or more than 5,</para>
+        <para id="id1165609269970">we use the greater multiple.</para>
+        <list id="id5766347" list-type="bulleted">
+          <item>If the units are 4 or less than 4, we use the smaller multiple.</item>
+        </list>
+        <para id="id1165613753949">24: nearer multiple is 20 16: nearer multiple is 20</para>
+        <para id="id1165603962761">37: nearer multiple is _____ 52: nearer multiple is _____</para>
+        <para id="id8443973">15: nearer multiple is _____ 73: nearer multiple is _____</para>
+        <para id="id6817614">81: nearer multiple is _____ 94: nearer multiple is _____</para>
+        <list id="id4438672" list-type="bulleted">
+          <item>Round off to the nearer 10. (This will help you to estimate):</item>
+        </list>
+        <figure id="id4078601">
+          <media id="id4078601_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-833e.png" id="id4078601__onlineimage" height="129" width="448"/>
+          </media>
+        </figure>
+        <para id="id1165612465636">If we round off, it helps us to estimate what the answer should be more quickly.</para>
+        <para id="id5584870">Remember! This is not an accurate answer!</para>
+        <list id="id1165613279868" list-type="bulleted">
+          <item>Use rounding off and estimate first. Then do an accurate calculation. Write the rounded off number above the number. </item>
+          <item>Tommy has 84c in his purse and buys a banana for 69c.</item>
+        </list>
+        <para id="id4560720">How much money does he have left?</para>
+        <para id="id5879435"> Rounding off: Number sentence: _____________________________________________________________________</para>
+        <para id="id4622485"> Calculate: Number sentence: _____________________________________________________________________</para>
+        <para id="id1165603832601">This will help you to estimate your change when you buy something. </para>
+        <table id="id1165611080547" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.10</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <list id="id3714725" list-type="bulleted">
+          <item>Bonny prefers to do her sums horizontally.</item>
+        </list>
+        <figure id="id5555105">
+          <media id="id5555105_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-7595.png" id="id5555105__onlineimage" height="136" width="554"/>
+          </media>
+        </figure>
+        <list id="id5838446" list-type="bulleted">
+          <item>Tommy prefers to do his sums vertically.</item>
+        </list>
+        <figure id="id8320188">
+          <media id="id8320188_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-27b1.png" id="id8320188__onlineimage" height="164" width="471"/>
+          </media>
+        </figure>
+        <list id="id1165611137273" list-type="bulleted">
+          <item>Let’s try both ways and then decide which is the easier.</item>
+        </list>
+        <figure id="id1165612284341">
+          <media id="id1165612284341_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-33f9.png" id="id1165612284341__onlineimage" height="558" width="600"/>
+          </media>
+        </figure>
+        <table id="id1165604145499" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.8</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id3912398">Bonny says: Subtraction is a bit different.</para>
+        <list id="id7402300" list-type="bulleted">
+          <item>NEVER rename the first number.</item>
+        </list>
+        <figure id="id1165614008648">
+          <media id="id1165614008648_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-cc03.png" id="id1165614008648__onlineimage" height="136" width="504"/>
+          </media>
+        </figure>
+        <para id="id1165603925793">Check your answer: 12 + 64 = 76</para>
+        <list id="id1165604799732" list-type="bulleted">
+          <item>Like this! He thought like this:</item>
+        </list>
+        <figure id="id1165602652840">
+          <media id="id1165602652840_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-20aa.png" id="id1165602652840__onlineimage" height="201" width="558"/>
+          </media>
+        </figure>
+        <para id="id1165612109358"/>
+        <list id="id4109016" list-type="bulleted">
+          <item>Check your answer: </item>
+        </list>
+        <para id="id1165604433018">1 2</para>
+        <para id="id1165618110146">+64</para>
+        <para id="id1165614119340">76</para>
+        <figure id="id7317958">
+          <media id="id7317958_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics7-7efd.png" id="id7317958__onlineimage" height="293" width="577"/>
+          </media>
+        </figure>
+        <list id="id3874649" list-type="bulleted">
+          <item>What do you think, do you want to do your sums like Bonny or like Tommy?</item>
+        </list>
+        <para id="id1165613771115">_____________________________________________________________________</para>
+        <table id="id1165604989140" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LO 1.8 </entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id5623035">
+      <title>Assessment</title>
+      <para id="id1165604512437"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id1165617872251"><emphasis><emphasis effect="italics">Assessment Standard 1.8:</emphasis></emphasis> We know this when the learner can perform calculations, using appropriate symbols, to solve problems involving:</para>
+      <para id="id1165617907869">1.8.1 addition and subtraction of whole numbers with at least 3 digits;</para>
+      <para id="id4791902">1.8.2 multiplication of at least whole 2-digit by 1-digit numbers;</para>
+      <para id="id1165607687202">1.8.3 division of at least whole 2-digit by 1-digit numbers;</para>
+      <list id="id1165606369089" list-type="bulleted">
+        <item>estimation;</item>
+      </list>
+      <para id="id1165607248271"><emphasis><emphasis effect="italics">Assessment Standard 1.10:</emphasis></emphasis> We know this when the learner uses the following techniques:</para>
+      <para id="id1165612591311">1.10.1 building up and breaking down numbers;</para>
+      <para id="id8831287">1.10.2 doubling and halving;</para>
+      <para id="id1165611302154">1.10.3 number-lines;</para>
+      <para id="id1165604691918">1.10.4 rounding off in tens.</para>
+    </section>
+  </content>
+</document>
